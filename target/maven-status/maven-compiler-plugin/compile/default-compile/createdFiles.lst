@@ -1,0 +1,5 @@
+cl\prueba\testdesarrollo1\Testdesarrollo1Application.class
+cl\prueba\testdesarrollo1\controller\TarjetaPersonaController.class
+cl\prueba\testdesarrollo1\model\RespuestaPersona.class
+cl\prueba\testdesarrollo1\model\ConsultaPersona.class
+cl\prueba\testdesarrollo1\model\Persona.class
